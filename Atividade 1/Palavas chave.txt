@@ -1,0 +1,25 @@
+Modelos de processos de Software
+Cascata
+Incremental
+Orientado a reuso
+
+Frameworks
+
+Especificação
+Validação
+Evolução
+Implementação
+Projeto
+
+Requisitos
+Estudo
+Especificação
+Análise 
+Validação
+
+Implemtanção
+
+Testes
+
+Aceitação do cliente
+
