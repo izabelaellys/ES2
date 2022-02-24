@@ -1,2 +1,2 @@
 # ES2N
-Repositório criado para a matéria de Egenharia de Software 2
+Repositório criado para a matéria de Engenharia de Software 2
